@@ -8,13 +8,13 @@
 
 I'm a front-end developer with a growing interest in the full product experience - from thoughtful interfaces to the backend functionality that supports them.
 
-I completed an intensive eight-month front-end development program at **Lexicon**. The program combined full-time studies, hands-on projects, and an internship, giving me experience turning ideas and requirements into working digital products.
+I completed an intensive five-month front-end development course at **Lexicon**, followed by a three-month internship at **Blueye**. This combination of full-time studies, hands-on projects, and workplace experience taught me how to turn ideas and requirements into working digital products.
 
 ## 💼 Experience
 
 ### Blueye - Front-end development intern
 
-During an internship of roughly two to three months, I:
+During my three-month internship, I:
 
 - helped design and build modern websites while developing both my front-end and backend experience;
 - contributed to mobile app development by cleaning up and refining the interface;
@@ -25,7 +25,7 @@ During an internship of roughly two to three months, I:
 
 ### Lexicon - Front-end Developer
 
-The program included a 100-day, full-time front-end curriculum focused on building responsive and accessible web applications. My studies included:
+The five-month, full-time course focused on building responsive and accessible web applications. My studies included:
 
 - semantic HTML, CSS Grid, Flexbox, responsive design, and accessibility fundamentals based on WCAG;
 - TypeScript, DOM manipulation, asynchronous programming, and the Fetch API;
