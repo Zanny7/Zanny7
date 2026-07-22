@@ -14,12 +14,12 @@ I completed an intensive five-month front-end development course at **Lexicon**,
 
 ### Blueye - Front-end development intern
 
-During my three-month internship, I:
+During my three-month internship, I contributed to both web and mobile development.
 
-- helped design and build modern websites while developing both my front-end and backend experience;
-- contributed to mobile app development by cleaning up and refining the interface;
-- added in-app messaging based on the existing web experience; and
-- implemented message notifications for the mobile app.
+- Helped design and build modern websites while developing both my front-end and backend experience.
+- Cleaned up and refined the mobile app interface.
+- Added in-app messaging based on the existing web experience.
+- Implemented message notifications for the mobile app.
 
 ## 🎓 Education
 
